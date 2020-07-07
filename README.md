@@ -16,9 +16,9 @@ Soruces Refered from :-
 https://medium.com/react-native-training/react-native-uses-flexbox-to-layout-and-arrange-its-components-and-children-3dd4e8399bb
 
 Setting up the project
-Run git clone https://github.com/briankabiro/Whatsapp.git
+Run git clone https://github.com/Edwinstr97/WhatsappCloneProject.git
 
-cd into Whatsapp and run yarn install to install the dependencies
+cd into WhatsappCloneProject and run npm install to install the dependencies
 
 Run react-native start to start the packager
 
